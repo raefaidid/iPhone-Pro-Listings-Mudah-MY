@@ -1,0 +1,9 @@
+#files
+play*
+notes*
+
+#environment variables
+.env
+
+#virtual environment
+api_data_extraction_env
